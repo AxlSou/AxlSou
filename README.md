@@ -1,6 +1,12 @@
 ![MasterHead](banner.png)
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axlsou&label=Profile%20views&color=0e75b6&style=flat" alt="axlsou" /> </p>
+<p align="center">
+  
+<img src="https://badges.pufler.dev/visits/AxlSou/AxlSou"/> 
+<img src="https://badges.pufler.dev/repos/AxlSou"/>
+<img src="https://badges.pufler.dev/commits/monthly/AxlSou"/>
+
+</p>
 
 - 🔭 I’m currently working as **Freelancer**
 
